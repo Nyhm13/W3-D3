@@ -1,0 +1,18 @@
+body {
+  background-image: url(/assets/grocery-store-canned-goods-pcpmmir10p200jtu.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+div {
+  background-color: rgba(255, 255, 255, 0.7);
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+.no-bullets{
+  list-style-type: none;
+}
+
+.middle-line{
+    text-decoration: line-through;
+}
